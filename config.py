@@ -1,0 +1,10 @@
+db_name = "dnd_db"
+username = "postgres"
+password = "2023wCAAA3z3"
+host = "localhost"
+port = "5433"
+
+schema_dir = "C:/Users/User/source/dbs/assignment3/db_builder"
+seed_path = "C:/Users/User/source/dbs/assignment3/db_builder/seed.sql"
+procedures_path = "C:/Users/User/source/dbs/assignment3/db_builder/procedures.sql"
+views_path = "C:/Users/User/source/dbs/assignment3/db_builder/views.sql"
